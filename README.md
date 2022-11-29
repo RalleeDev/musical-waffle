@@ -4,7 +4,7 @@ _musical-waffle has a range of features, designed to help you with boring tasks 
 
 ## Updates
 
-I will resume on this project in mid december 2022
+IMPORTANT! <br> I will resume on this project in mid december 2022
 
 ## Installation
 
