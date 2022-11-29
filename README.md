@@ -9,4 +9,4 @@ I will resume on this project in mid december 2022
 ## Installation
 
 
-__Guide coming as soon as a stable version is read and is publiahws__
+__Guide coming as soon as a stable version is read and is published__
